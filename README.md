@@ -1,11 +1,22 @@
 # Web3 Playground
 
-Repo buat belajar smart contract dari nol.
+Learning repository for Solidity and smart contract development.
 
-## Progress
-- Day 1: SimpleStorage contract
+## Current Progress
+- SimpleStorage contract
+- Basic deploy script
+- Learning notes
 
-## Stack
+## Goals
+- Learn Hardhat
+- Deploy to Sepolia
+- Build simple dApps
+
+## Tech Stack
 - Solidity
-- Hardhat (soon)
-- Ethereum Testnet
+- JavaScript
+- Ethereum
+
+## Next Update
+- Counter contract
+- ERC-20 token experiment
